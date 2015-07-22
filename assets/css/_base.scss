@@ -306,32 +306,32 @@ path.stroke-thin {
 
 /* Footer Section */
 
-#f {
+.signup {
   padding-top: 20px;
   padding-bottom: 50px;
   background: #3a3a3a;
   color: #999;
   }
 
-#f h2 {
+.signup h2 {
   color: #eee;
   font-size:40px;
 }
 
-#f .form {
+.signup .form {
   margin-top: 0;
   text-align: left;
 }
 
-#f .form-group {
+.signup .form-group {
   margin-top:25px;
 }
 
-#f label {
+.signup label {
   font-size: 16px;
 }
 
-#f input {
+.signup input {
   font-size: 18px;
   min-height: 40px;
   border-radius: 0px;
@@ -345,18 +345,18 @@ path.stroke-thin {
   transition: background-color 0.2s;
 }
 
-#f .subscribe-input {/*
+.signup .subscribe-input {/*
   float: left;
   width: 70%;
   text-align: left;
   margin-right: 2px;*/
 }
 
-#f .subscribe-submit {
+.signup .subscribe-submit {
   right: 0;
 }
 
-#f .btn-yellow {
+.signup .btn-yellow {
   color: #444;
   background-color: #ff6;
   border-color: #444;
