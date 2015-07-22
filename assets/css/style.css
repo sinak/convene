@@ -327,6 +327,7 @@ path.stroke-thin {
   border: 2px solid #e9f0f2;
   margin-bottom: 10px;
   background-color: transparent;
+  color: #ffff66;
   -webkit-transition: background-color 0.2s;
   transition: background-color 0.2s; }
 
